@@ -1,5 +1,5 @@
 - Hi, I'm Aadarsh Warrier
-- I make whatever the hell I want to make.
+- I make whatever I feel like making
 - Contact: aadarshwarrier@gmail.com
 
 <!---
